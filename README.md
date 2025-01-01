@@ -15,4 +15,4 @@ It's very easy to contribute! :D
   ![alt text](README_media/assignees.png)
 - Add some comments to keep people posted
   ![alt text](README_media/party.png)
-- Do an MR when the deck is ready!
+- Create a branch, commit to it, and do an MR when the deck is ready!
