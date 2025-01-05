@@ -21,7 +21,7 @@ It's very easy to contribute! :D
   ![alt text](README_media/party.png)
 - Be sure to follow the [Anki format](#ankis-format) and create the relevant Anki cards
 - Export them (check the [How to export](#how-to-export) section for help)
-- Create a branch, commit to it, and do an MR when the deck is ready!
+- Create a branch, add the deck and remove the associated `TODO_<type><nr>_XXX.apkg` file, commit, and do an MR when the deck is ready!
 
 ## Anki's format
 
@@ -81,7 +81,7 @@ When you are ready to export your cards,
    ![alt text](README_media/create_filtered_deck.png)
 3. Set the options as shown in the red boxes and click "Build"
    ![alt text](README_media/build_filtered_deck.png)
-4. A deck with the cards will appear. Export it by clicking in the Cog. Ensure that it is named **`Network_Security_Exam_2425`** and, if not, rename it:
+4. A deck with the cards will appear. Export it by clicking in the Cog. Ensure that it is named **exactly** **`Network_Security_Exam_2425`** (watchout for leading `+`s) and, if not, rename it:
   ![alt text](README_media/export.png)
 1. Export the deck:
   ![alt text](README_media/export_2.png)
